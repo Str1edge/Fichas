@@ -1,4 +1,10 @@
-# React + Vite
+# React + Vite Fichas Componentes
+
+##Creacion componentes de tipo Cards Utilizando VITE + REACT + CSS
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
